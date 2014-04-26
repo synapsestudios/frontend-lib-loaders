@@ -1,0 +1,15 @@
+{
+  "name": "frontend-lib-loaders",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "peerDependencies": {
+    "jquery": "^2.1.0",
+    "hammerjs": "^1.1.0"
+  }
+}
